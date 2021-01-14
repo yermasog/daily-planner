@@ -9,6 +9,6 @@ I also used [Moment.js](https://momentjs.com/) to work with dates and times.
 
 <img src="Assets\images\daily-planner.png">
 
-Deployed link:
+Deployed link: https://yermasog.github.io/daily-planner/ 
 
-GitHub Repo: 
+GitHub Repo: https://github.com/yermasog/daily-planner 
